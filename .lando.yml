@@ -1,0 +1,7 @@
+name: dxpr-starter
+recipe: drupal10
+config:
+  webroot: web
+services:
+  appserver:
+    type: php:8.3
